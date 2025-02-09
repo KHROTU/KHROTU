@@ -1,7 +1,6 @@
 
-# I am...
+# about me
 
-- Founder & creator of Khronexis Studios
-- Python / C++ / HTML / JavaScript guy
-- Sweaty gamer
-- Simp for ~~yo mama~~ A_I_X, my boy friend :3
+- I don't fw Linux
+- I don't fw Opera
+- I don't fw loud ass GPUs
